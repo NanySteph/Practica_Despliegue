@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikil-learn
+joblib
+openia
